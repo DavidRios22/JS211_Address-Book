@@ -1,0 +1,64 @@
+{
+    "results": [{
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Jacob",
+            "last": "Petersen"
+        },
+        "location": {
+            "street": {
+                "number": 152,
+                "name": "Skovtoften"
+            },
+            "city": "Vipperød",
+            "state": "Syddanmark",
+            "country": "Denmark",
+            "postcode": 25423,
+            "coordinates": {
+                "latitude": "-45.0009",
+                "longitude": "-60.3643"
+            },
+            "timezone": {
+                "offset": "+9:30",
+                "description": "Adelaide, Darwin"
+            }
+        },
+        "email": "jacob.petersen@example.com",
+        "login": {
+            "uuid": "6ce0bff2-5ecb-4d8b-9157-0d7cca1c8fdc",
+            "username": "greenladybug145",
+            "password": "audrey",
+            "salt": "x5WTYHTh",
+            "md5": "c14ead45dd39fd5ba6533b75a6c9013f",
+            "sha1": "603836e003b55af10f0feccd2f2ab3b84a31cc0d",
+            "sha256": "48155c15fabc85439b448dbcd840166b79e8753af7ceb5e7848fb71f5f6d18e3"
+        },
+        "dob": {
+            "date": "1993-11-24T03:35:54.347Z",
+            "age": 29
+        },
+        "registered": {
+            "date": "2011-11-05T02:09:38.209Z",
+            "age": 11
+        },
+        "phone": "86085987",
+        "cell": "14649024",
+        "id": {
+            "name": "CPR",
+            "value": "231193-5679"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/77.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+        },
+        "nat": "DK"
+    }],
+    "info": {
+        "seed": "90c5fd634b07f9b6",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}

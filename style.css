@@ -1,0 +1,35 @@
+body {
+background-color: bisque;
+}
+
+header {
+    font-size: 10vw;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.name {
+
+}
+
+img {
+
+}
+
+#moreInfo {
+
+}
+
+button {
+
+}
+
+.buttons {
+display: none;
+}
